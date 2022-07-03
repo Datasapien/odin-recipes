@@ -1,0 +1,28 @@
+* {
+    font-family: monospace;
+        }
+
+h1 {
+    background-color: hsl(160, 100%, 75%);
+    color: orange;
+}
+
+h2 {
+    color: orange;
+}
+
+img {
+    border: 3px solid aquamarine;
+    padding: auto;
+}
+
+ol, ul, p {
+    font-size: 1.5rem;
+    letter-spacing: 0.1rem;
+    margin: 0.5rem;
+}
+
+.return {
+    padding-top: 0.5rem;
+    background-color: hsla(160, 100%, 75%, 0.25);
+}
