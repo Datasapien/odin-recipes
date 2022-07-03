@@ -8,7 +8,8 @@ h1 {
 }
 
 h2 {
-    color: orange;
+    color: hsl(39, 100%, 50%);
+    background-color: hsla(39, 100%, 50%, 0.10);
 }
 
 img {
@@ -24,5 +25,5 @@ ol, ul, p {
 
 .return {
     padding-top: 0.5rem;
-    background-color: hsla(160, 100%, 75%, 0.25);
+    background-color: hsla(160, 100%, 75%, 0.1);
 }
